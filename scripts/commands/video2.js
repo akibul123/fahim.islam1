@@ -62,7 +62,7 @@ async function linkanh(choice) {
     "4": "/video/sadvideo",
     "5": "/video/status",
     "6": "/video/shairi",
-    "7": "/video/baby",
+    "7": "/fany",
     "8": "/video/anime",
     "9": "/video/humaiyun",
     "10": "/video/islam",
